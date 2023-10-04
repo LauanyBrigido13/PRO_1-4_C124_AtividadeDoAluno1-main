@@ -1,0 +1,2 @@
+0 rosto sem máscara
+1 rosto com máscara
